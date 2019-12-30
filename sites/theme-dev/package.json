@@ -12,5 +12,9 @@
     "gatsby-theme-docs": "*",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
+  },
+  "resolutions": {
+    "**/gatsby": "^2.18.17",
+    "**/react-dom": "^16.12.0"
   }
 }
