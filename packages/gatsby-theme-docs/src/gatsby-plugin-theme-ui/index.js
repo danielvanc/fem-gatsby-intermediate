@@ -2,7 +2,7 @@ export default {
   colors: {
     primary: 'rebeccapurple',
     secondary: 'indigo',
-    muted: 'purple',
+    muted: 'grey',
     text: 'green',
     background: 'white'
   },
