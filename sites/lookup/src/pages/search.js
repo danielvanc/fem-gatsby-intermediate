@@ -1,4 +1,5 @@
 import React from 'react';
+import Form from '../components/form'
 
 const Index = () => (
   <>
@@ -7,7 +8,7 @@ const Index = () => (
       Trying to remember which Rick you're talking about? Try out this handy search interface.
     </p>
     
-    {/* TODO Add search form */}
+    <Form />
     {/* TODO Add results  */}
   </>
 )
