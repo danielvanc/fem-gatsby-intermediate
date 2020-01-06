@@ -5,9 +5,9 @@
 //   path: `.env.${process.env.NODE_ENV}`,
 // });
 
-// module.exports = {
-//   plugins: [
-//     'gatsby-plugin-theme-ui',
+module.exports = {
+  plugins: [
+    'gatsby-plugin-theme-ui',
 //     {
 //       resolve: 'gatsby-source-filesystem',
 //       options: {
@@ -38,5 +38,5 @@
 //         contentPath: 'content/events',
 //       },
 //     },
-//   ],
-// };
+  ],
+};
